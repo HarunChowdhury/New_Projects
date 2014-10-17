@@ -1,0 +1,20 @@
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.pdb
+C:\Users\PC21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.PersonForm.resources
+J:\Razin constractor\PersonApps\PersonApps\bin\Debug\PersonApps.exe.config
+J:\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.exe
+J:\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.pdb
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\bin\Debug\PersonApps.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.exe
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.pdb
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\bin\Debug\PersonApps.exe
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\bin\Debug\PersonApps.pdb
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.PersonForm.resources
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\Razin constractor\PersonApps\PersonApps\obj\Debug\PersonApps.csproj.GenerateResource.Cache

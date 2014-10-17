@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\bin\Debug\EmployeeSalaryUI.exe.config
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\bin\Debug\EmployeeSalaryUI.exe
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\bin\Debug\EmployeeSalaryUI.pdb
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\obj\Debug\EmployeeSalaryUI.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\obj\Debug\EmployeeSalaryUI.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\obj\Debug\EmployeeSalaryUI.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\obj\Debug\EmployeeSalaryUI.exe
+C:\Users\PC21\Desktop\Harun\EmployeeSalaryUI\EmployeeSalaryUI\obj\Debug\EmployeeSalaryUI.pdb

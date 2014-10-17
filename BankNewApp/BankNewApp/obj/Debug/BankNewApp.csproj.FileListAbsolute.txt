@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\bin\Debug\BankNewApp.exe.config
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\bin\Debug\BankNewApp.exe
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\bin\Debug\BankNewApp.pdb
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\obj\Debug\BankNewApp.BankUI.resources
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\obj\Debug\BankNewApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\obj\Debug\BankNewApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\obj\Debug\BankNewApp.exe
+C:\Users\PC21\Desktop\Harun\BankNewApp\BankNewApp\obj\Debug\BankNewApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepartmentUI.resources
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+C:\Users\HARUN Chowdhury\Desktop\Prac\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb

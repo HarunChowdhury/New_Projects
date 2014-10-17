@@ -1,0 +1,31 @@
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\bin\Debug\Salary Calculator App.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\bin\Debug\Salary Calculator App.exe
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\bin\Debug\Salary Calculator App.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary Calculator App.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary_Calculator_App.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary_Calculator_App.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary Calculator App.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary Calculator App.exe
+c:\users\acer\documents\visual studio 2013\Projects\Salary Calculator App\Salary Calculator App\obj\Debug\Salary Calculator App.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe.config
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary_Calculator_App.Properties.Resources.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.csproj.GenerateResource.Cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary_Calculator_App.SalaryCalculatorForm.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.pdb
+J:\Razin constractor\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe.config
+J:\Razin constractor\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.exe
+J:\Razin constractor\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.pdb
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe.config
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.exe
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.pdb
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.pdb
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary_Calculator_App.SalaryCalculatorForm.resources
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary_Calculator_App.Properties.Resources.resources
+C:\Users\HARUN Chowdhury\Desktop\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\bin\Debug\Salary Calculator App.exe.config
+C:\Users\PC21\Desktop\Harun\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.exe
+C:\Users\PC21\Desktop\Harun\rrrrrrrrrrrr\Salary-Calculator-App-master\Salary Calculator App\obj\Debug\Salary Calculator App.pdb

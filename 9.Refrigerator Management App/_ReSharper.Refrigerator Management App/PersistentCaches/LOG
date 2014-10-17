@@ -1,0 +1,5 @@
+2014/10/11-01:01:49.241 dbc Recovering log #3
+2014/10/11-01:01:49.242 dbc Level-0 table #5: started
+2014/10/11-01:01:49.939 dbc Level-0 table #5: 12016 bytes OK
+2014/10/11-01:01:50.021 dbc Delete type=0 #3
+2014/10/11-01:01:50.021 dbc Delete type=3 #2

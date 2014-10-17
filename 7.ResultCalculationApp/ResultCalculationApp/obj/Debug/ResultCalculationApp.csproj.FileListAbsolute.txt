@@ -1,0 +1,14 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.ResultCalculationAppUI.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
+C:\Users\Hafiz\Desktop\RverseApp\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+C:\Users\Hafiz\Desktop\RverseApp\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\10-Oct-2014\Practice\7.ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\10-Oct-2014\Practice\7.ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\10-Oct-2014\Practice\7.ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
